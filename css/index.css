@@ -363,11 +363,11 @@ body #db-pay-tips {
     zoom: 1;
     padding: 0 8px 0 22px;
     height: 28px;
-    background: url(http://img6.douban.com/f/shire/cb11ed26547a6366febcdc9207f1c1b0f8dbb6f6/pics/nav/nav_doubanapp_5.png) no-repeat;
-    background-image: -webkit-image-set(url(http://img6.douban.com/f/shire/cb11ed26547a6366febcdc9207f1c1b0f8dbb6f6/pics/nav/nav_doubanapp_5.png) 1x,url(http://img6.douban.com/f/shire/1c2bebfb41d68ba14ade0d2d5f32f8f111a00aba/pics/nav/nav_doubanapp_5@2x.png) 2x);
-    background-image: -moz-image-set(url(http://img6.douban.com/f/shire/cb11ed26547a6366febcdc9207f1c1b0f8dbb6f6/pics/nav/nav_doubanapp_5.png) 1x,url(http://img6.douban.com/f/shire/1c2bebfb41d68ba14ade0d2d5f32f8f111a00aba/pics/nav/nav_doubanapp_5@2x.png) 2x);
-    background-image: -ms-image-set(url(http://img6.douban.com/f/shire/cb11ed26547a6366febcdc9207f1c1b0f8dbb6f6/pics/nav/nav_doubanapp_5.png) 1x,url(http://img6.douban.com/f/shire/1c2bebfb41d68ba14ade0d2d5f32f8f111a00aba/pics/nav/nav_doubanapp_5@2x.png) 2x);
-    background-image: -o-image-set(url(http://img6.douban.com/f/shire/cb11ed26547a6366febcdc9207f1c1b0f8dbb6f6/pics/nav/nav_doubanapp_5.png) 1x,url(http://img6.douban.com/f/shire/1c2bebfb41d68ba14ade0d2d5f32f8f111a00aba/pics/nav/nav_doubanapp_5@2x.png) 2x);
+    background: url(../pics/nav/nav_doubanapp_5.png) no-repeat;
+    background-image: -webkit-image-set(url(../pics/nav/nav_doubanapp_5.png) 1x,url(../pics/nav/nav_doubanapp_5@2x.png) 2x);
+    background-image: -moz-image-set(url(../pics/nav/nav_doubanapp_5.png) 1x,url(../pics/nav/nav_doubanapp_5@2x.png) 2x);
+    background-image: -ms-image-set(url(../pics/nav/nav_doubanapp_5.png) 1x,url(../pics/nav/nav_doubanapp_5@2x.png) 2x);
+    background-image: -o-image-set(url(../pics/nav/nav_doubanapp_5.png) 1x,url(../pics/nav/nav_doubanapp_5@2x.png) 2x);
     background-position: 7px 5px
 }
 
@@ -388,11 +388,11 @@ body #db-pay-tips {
     padding-top: 65px;
     margin: 10px 0 16px;
     color: #13bc39;
-    background: url(http://img6.douban.com/f/shire/cb11ed26547a6366febcdc9207f1c1b0f8dbb6f6/pics/nav/nav_doubanapp_5.png) no-repeat;
-    background-image: -webkit-image-set(url(http://img6.douban.com/f/shire/cb11ed26547a6366febcdc9207f1c1b0f8dbb6f6/pics/nav/nav_doubanapp_5.png) 1x,url(http://img6.douban.com/f/shire/1c2bebfb41d68ba14ade0d2d5f32f8f111a00aba/pics/nav/nav_doubanapp_5@2x.png) 2x);
-    background-image: -moz-image-set(url(http://img6.douban.com/f/shire/cb11ed26547a6366febcdc9207f1c1b0f8dbb6f6/pics/nav/nav_doubanapp_5.png) 1x,url(http://img6.douban.com/f/shire/1c2bebfb41d68ba14ade0d2d5f32f8f111a00aba/pics/nav/nav_doubanapp_5@2x.png) 2x);
-    background-image: -ms-image-set(url(http://img6.douban.com/f/shire/cb11ed26547a6366febcdc9207f1c1b0f8dbb6f6/pics/nav/nav_doubanapp_5.png) 1x,url(http://img6.douban.com/f/shire/1c2bebfb41d68ba14ade0d2d5f32f8f111a00aba/pics/nav/nav_doubanapp_5@2x.png) 2x);
-    background-image: -o-image-set(url(http://img6.douban.com/f/shire/cb11ed26547a6366febcdc9207f1c1b0f8dbb6f6/pics/nav/nav_doubanapp_5.png) 1x,url(http://img6.douban.com/f/shire/1c2bebfb41d68ba14ade0d2d5f32f8f111a00aba/pics/nav/nav_doubanapp_5@2x.png) 2x);
+    background: url(../pics/nav/nav_doubanapp_5.png) no-repeat;
+    background-image: -webkit-image-set(url(../pics/nav/nav_doubanapp_5.png) 1x,url(../pics/nav/nav_doubanapp_5@2x.png) 2x);
+    background-image: -moz-image-set(url(../pics/nav/nav_doubanapp_5.png) 1x,url(../pics/nav/nav_doubanapp_5@2x.png) 2x);
+    background-image: -ms-image-set(url(../pics/nav/nav_doubanapp_5.png) 1x,url(../pics/nav/nav_doubanapp_5@2x.png) 2x);
+    background-image: -o-image-set(url(../pics/nav/nav_doubanapp_5.png) 1x,url(../pics/nav/nav_doubanapp_5@2x.png) 2x);
     background-position: 73px -300px
 }
 
@@ -401,11 +401,11 @@ body #db-pay-tips {
     width: 77px;
     padding-top: 80px;
     margin: 0 20px 0 0;
-    background: url(http://img6.douban.com/f/shire/cb11ed26547a6366febcdc9207f1c1b0f8dbb6f6/pics/nav/nav_doubanapp_5.png) no-repeat;
-    background-image: -webkit-image-set(url(http://img6.douban.com/f/shire/cb11ed26547a6366febcdc9207f1c1b0f8dbb6f6/pics/nav/nav_doubanapp_5.png) 1x,url(http://img6.douban.com/f/shire/1c2bebfb41d68ba14ade0d2d5f32f8f111a00aba/pics/nav/nav_doubanapp_5@2x.png) 2x);
-    background-image: -moz-image-set(url(http://img6.douban.com/f/shire/cb11ed26547a6366febcdc9207f1c1b0f8dbb6f6/pics/nav/nav_doubanapp_5.png) 1x,url(http://img6.douban.com/f/shire/1c2bebfb41d68ba14ade0d2d5f32f8f111a00aba/pics/nav/nav_doubanapp_5@2x.png) 2x);
-    background-image: -ms-image-set(url(http://img6.douban.com/f/shire/cb11ed26547a6366febcdc9207f1c1b0f8dbb6f6/pics/nav/nav_doubanapp_5.png) 1x,url(http://img6.douban.com/f/shire/1c2bebfb41d68ba14ade0d2d5f32f8f111a00aba/pics/nav/nav_doubanapp_5@2x.png) 2x);
-    background-image: -o-image-set(url(http://img6.douban.com/f/shire/cb11ed26547a6366febcdc9207f1c1b0f8dbb6f6/pics/nav/nav_doubanapp_5.png) 1x,url(http://img6.douban.com/f/shire/1c2bebfb41d68ba14ade0d2d5f32f8f111a00aba/pics/nav/nav_doubanapp_5@2x.png) 2x);
+    background: url(../pics/nav/nav_doubanapp_5.png) no-repeat;
+    background-image: -webkit-image-set(url(../pics/nav/nav_doubanapp_5.png) 1x,url(../pics/nav/nav_doubanapp_5@2x.png) 2x);
+    background-image: -moz-image-set(url(../pics/nav/nav_doubanapp_5.png) 1x,url(../pics/nav/nav_doubanapp_5@2x.png) 2x);
+    background-image: -ms-image-set(url(../pics/nav/nav_doubanapp_5.png) 1x,url(../pics/nav/nav_doubanapp_5@2x.png) 2x);
+    background-image: -o-image-set(url(../pics/nav/nav_doubanapp_5.png) 1x,url(../pics/nav/nav_doubanapp_5@2x.png) 2x);
     background-position: 0 -195px;
     font-size: 12px;
     font-weight: normal;
@@ -424,11 +424,11 @@ body #db-pay-tips {
     height: 35px;
     padding: 0;
     margin: 0 auto;
-    background: url(http://img6.douban.com/f/shire/cb11ed26547a6366febcdc9207f1c1b0f8dbb6f6/pics/nav/nav_doubanapp_5.png) no-repeat;
-    background-image: -webkit-image-set(url(http://img6.douban.com/f/shire/cb11ed26547a6366febcdc9207f1c1b0f8dbb6f6/pics/nav/nav_doubanapp_5.png) 1x,url(http://img6.douban.com/f/shire/1c2bebfb41d68ba14ade0d2d5f32f8f111a00aba/pics/nav/nav_doubanapp_5@2x.png) 2x);
-    background-image: -moz-image-set(url(http://img6.douban.com/f/shire/cb11ed26547a6366febcdc9207f1c1b0f8dbb6f6/pics/nav/nav_doubanapp_5.png) 1x,url(http://img6.douban.com/f/shire/1c2bebfb41d68ba14ade0d2d5f32f8f111a00aba/pics/nav/nav_doubanapp_5@2x.png) 2x);
-    background-image: -ms-image-set(url(http://img6.douban.com/f/shire/cb11ed26547a6366febcdc9207f1c1b0f8dbb6f6/pics/nav/nav_doubanapp_5.png) 1x,url(http://img6.douban.com/f/shire/1c2bebfb41d68ba14ade0d2d5f32f8f111a00aba/pics/nav/nav_doubanapp_5@2x.png) 2x);
-    background-image: -o-image-set(url(http://img6.douban.com/f/shire/cb11ed26547a6366febcdc9207f1c1b0f8dbb6f6/pics/nav/nav_doubanapp_5.png) 1x,url(http://img6.douban.com/f/shire/1c2bebfb41d68ba14ade0d2d5f32f8f111a00aba/pics/nav/nav_doubanapp_5@2x.png) 2x);
+    background: url(../pics/nav/nav_doubanapp_5.png) no-repeat;
+    background-image: -webkit-image-set(url(../pics/nav/nav_doubanapp_5.png) 1x,url(../pics/nav/nav_doubanapp_5@2x.png) 2x);
+    background-image: -moz-image-set(url(../pics/nav/nav_doubanapp_5.png) 1x,url(../pics/nav/nav_doubanapp_5@2x.png) 2x);
+    background-image: -ms-image-set(url(../pics/nav/nav_doubanapp_5.png) 1x,url(../pics/nav/nav_doubanapp_5@2x.png) 2x);
+    background-image: -o-image-set(url(../pics/nav/nav_doubanapp_5.png) 1x,url(../pics/nav/nav_doubanapp_5@2x.png) 2x);
     background-position: 0 -70px
 }
 
@@ -487,11 +487,11 @@ body #db-pay-tips {
 }
 
 .top-nav-doubanapp.more-active .lnk-doubanapp:link,.top-nav-doubanapp.more-active .lnk-doubanapp:visited,.top-nav-doubanapp.more-active .lnk-doubanapp:hover,.top-nav-doubanapp.more-active .lnk-doubanapp:active {
-    background: url(http://img6.douban.com/f/shire/cb11ed26547a6366febcdc9207f1c1b0f8dbb6f6/pics/nav/nav_doubanapp_5.png) no-repeat;
-    background-image: -webkit-image-set(url(http://img6.douban.com/f/shire/cb11ed26547a6366febcdc9207f1c1b0f8dbb6f6/pics/nav/nav_doubanapp_5.png) 1x,url(http://img6.douban.com/f/shire/1c2bebfb41d68ba14ade0d2d5f32f8f111a00aba/pics/nav/nav_doubanapp_5@2x.png) 2x);
-    background-image: -moz-image-set(url(http://img6.douban.com/f/shire/cb11ed26547a6366febcdc9207f1c1b0f8dbb6f6/pics/nav/nav_doubanapp_5.png) 1x,url(http://img6.douban.com/f/shire/1c2bebfb41d68ba14ade0d2d5f32f8f111a00aba/pics/nav/nav_doubanapp_5@2x.png) 2x);
-    background-image: -ms-image-set(url(http://img6.douban.com/f/shire/cb11ed26547a6366febcdc9207f1c1b0f8dbb6f6/pics/nav/nav_doubanapp_5.png) 1x,url(http://img6.douban.com/f/shire/1c2bebfb41d68ba14ade0d2d5f32f8f111a00aba/pics/nav/nav_doubanapp_5@2x.png) 2x);
-    background-image: -o-image-set(url(http://img6.douban.com/f/shire/cb11ed26547a6366febcdc9207f1c1b0f8dbb6f6/pics/nav/nav_doubanapp_5.png) 1x,url(http://img6.douban.com/f/shire/1c2bebfb41d68ba14ade0d2d5f32f8f111a00aba/pics/nav/nav_doubanapp_5@2x.png) 2x);
+    background: url(../pics/nav/nav_doubanapp_5.png) no-repeat;
+    background-image: -webkit-image-set(url(../pics/nav/nav_doubanapp_5.png) 1x,url(../pics/nav/nav_doubanapp_5@2x.png) 2x);
+    background-image: -moz-image-set(url(../pics/nav/nav_doubanapp_5.png) 1x,url(../pics/nav/nav_doubanapp_5@2x.png) 2x);
+    background-image: -ms-image-set(url(../pics/nav/nav_doubanapp_5.png) 1x,url(../pics/nav/nav_doubanapp_5@2x.png) 2x);
+    background-image: -o-image-set(url(../pics/nav/nav_doubanapp_5.png) 1x,url(../pics/nav/nav_doubanapp_5@2x.png) 2x);
     background-position: 7px -30px;
     background-color: #f6f6f6;
     color: #8b8b8b
@@ -529,11 +529,11 @@ body #db-pay-tips {
     height: 56px;
     width: 145px;
     margin: 0 13px 0 0;
-    background: url("http://img6.douban.com/f/shire/8308f83ca66946299fc80efb1f10ea21f99ec2a5/pics/nav/lg_main_a11_1.png") no-repeat 0 12px;
-    background-image: -webkit-image-set(url("http://img6.douban.com/f/shire/8308f83ca66946299fc80efb1f10ea21f99ec2a5/pics/nav/lg_main_a11_1.png") 1x,url("http://img6.douban.com/f/shire/8977fa054324c4c7f565447b003ebf75e9b4f9c6/pics/nav/lg_main@2x.png") 2x);
-    background-image: -moz-image-set(url("http://img6.douban.com/f/shire/8308f83ca66946299fc80efb1f10ea21f99ec2a5/pics/nav/lg_main_a11_1.png") 1x,url("http://img6.douban.com/f/shire/8977fa054324c4c7f565447b003ebf75e9b4f9c6/pics/nav/lg_main@2x.png") 2x);
-    background-image: -ms-image-set(url("http://img6.douban.com/f/shire/8308f83ca66946299fc80efb1f10ea21f99ec2a5/pics/nav/lg_main_a11_1.png") 1x,url("http://img6.douban.com/f/shire/8977fa054324c4c7f565447b003ebf75e9b4f9c6/pics/nav/lg_main@2x.png") 2x);
-    background-image: -o-image-set(url("http://img6.douban.com/f/shire/8308f83ca66946299fc80efb1f10ea21f99ec2a5/pics/nav/lg_main_a11_1.png") 1x,url("http://img6.douban.com/f/shire/8977fa054324c4c7f565447b003ebf75e9b4f9c6/pics/nav/lg_main@2x.png") 2x)
+    background: url("../pics/nav/lg_main_a11_1.png") no-repeat 0 12px;
+    background-image: -webkit-image-set(url("../pics/nav/lg_main_a11_1.png") 1x,url("../pics/nav/lg_main@2x.png") 2x);
+    background-image: -moz-image-set(url("../pics/nav/lg_main_a11_1.png") 1x,url("../pics/nav/lg_main@2x.png") 2x);
+    background-image: -ms-image-set(url("../pics/nav/lg_main_a11_1.png") 1x,url("../pics/nav/lg_main@2x.png") 2x);
+    background-image: -o-image-set(url("../pics/nav/lg_main_a11_1.png") 1x,url("../pics/nav/lg_main@2x.png") 2x)
 }
 
 .nav .nav-logo a {
@@ -598,7 +598,7 @@ body #db-pay-tips {
     text-align: center;
     _margin-right: -3px;
     cursor: text;
-    background: url("http://img6.douban.com/f/shire/d45aaa7569335285e298dd7f3c045c8b364a19de/pics/nav1/nav_bg_a1.png") no-repeat 0 0
+    background: url("../pics/nav1/nav_bg_a1.png") no-repeat 0 0
 }
 
 .nav-search .inp input {
@@ -640,7 +640,7 @@ body #db-pay-tips {
     font-size: 0;
     padding: 35px 0 0 0;
     overflow: hidden;
-    background: url("http://img6.douban.com/f/shire/d45aaa7569335285e298dd7f3c045c8b364a19de/pics/nav1/nav_bg_a1.png") no-repeat 0 -40px;
+    background: url("../pics/nav/nav_bg_a1.png") no-repeat 0 -40px;
     color: transparent;
     cursor: pointer
 }
@@ -691,35 +691,35 @@ body #db-pay-tips {
 }
 
 #db-nav-book .nav-search .inp {
-    background-image: url("http://img6.douban.com/f/shire/d45aaa7569335285e298dd7f3c045c8b364a19de/pics/nav1/nav_bg_a1.png")
+    background-image: url("../pics/nav/nav_bg_a1.png")
 }
 
 #db-nav-book .nav-search .inp-btn input {
-    background-image: url("http://img6.douban.com/f/shire/d45aaa7569335285e298dd7f3c045c8b364a19de/pics/nav1/nav_bg_a1.png")
+    background-image: url("../pics/nav/nav_bg_a1.png")
 }
 
 #db-nav-movie .nav-search .inp {
-    background-image: url("http://img6.douban.com/f/shire/44552ac9f592ad9d2ef5c8ae708533990e94b605/pics/nav1/nav_mv_bg.png")
+    background-image: url("../pics/nav/nav_mv_bg.png")
 }
 
 #db-nav-movie .nav-search .inp-btn input {
-    background-image: url("http://img6.douban.com/f/shire/44552ac9f592ad9d2ef5c8ae708533990e94b605/pics/nav1/nav_mv_bg.png")
+    background-image: url("../pics/nav/nav_mv_bg.png")
 }
 
 #db-nav-group .nav-search .inp {
-    background-image: url("http://img6.douban.com/f/shire/44552ac9f592ad9d2ef5c8ae708533990e94b605/pics/nav1/nav_mv_bg.png")
+    background-image: url("../pics/nav/nav_mv_bg.png")
 }
 
 #db-nav-group .nav-search .inp-btn input {
-    background-image: url("http://img6.douban.com/f/shire/44552ac9f592ad9d2ef5c8ae708533990e94b605/pics/nav1/nav_mv_bg.png")
+    background-image: url("../pics/nav/nav_mv_bg.png")
 }
 
 #db-nav-music .nav-search .inp {
-    background-image: url("http://img6.douban.com/f/shire/b78a848a3825bda97797e3c1816ad3b01139aa1c/pics/nav1/nav_mu_bg.png")
+    background-image: url("../pics/nav/nav_mu_bg.png")
 }
 
 #db-nav-music .nav-search .inp-btn input {
-    background-image: url("http://img6.douban.com/f/shire/b78a848a3825bda97797e3c1816ad3b01139aa1c/pics/nav1/nav_mu_bg.png")
+    background-image: url("../pics/nav/nav_mu_bg.png")
 }
 
 #db-nav-commodity .nav-item.search-item .search-wrap-commodity .search-icon:before {
@@ -872,12 +872,12 @@ body #db-pay-tips {
 }
 
 #db-nav-commodity .nav-logo a,#db-nav-commodity .nav-logo a:link,#db-nav-commodity .nav-logo a:visited,#db-nav-commodity .nav-logo a:active,#db-nav-commodity .nav-logo a:hover {
-    background: #de533c url(http://img6.douban.com/f/dongxi/c2f97669006396582d606ea919b2deab7e1d4aef/pics/dongxi/logo.png) no-repeat 22px 19px!important;
-    background-image: url(http://img6.douban.com/f/dongxi/c2f97669006396582d606ea919b2deab7e1d4aef/pics/dongxi/logo.png);
-    background-image: -webkit-image-set(url(http://img6.douban.com/f/dongxi/c2f97669006396582d606ea919b2deab7e1d4aef/pics/dongxi/logo.png) 1x,url(http://img6.douban.com/f/dongxi/8e4651b14b3fbfd08115e6edb289573e7a5f75be/pics/dongxi/logo@2x.png) 2x);
-    background-image: -moz-image-set(url(http://img6.douban.com/f/dongxi/c2f97669006396582d606ea919b2deab7e1d4aef/pics/dongxi/logo.png) 1x,url(http://img6.douban.com/f/dongxi/8e4651b14b3fbfd08115e6edb289573e7a5f75be/pics/dongxi/logo@2x.png) 2x);
-    background-image: -ms-image-set(url(http://img6.douban.com/f/dongxi/c2f97669006396582d606ea919b2deab7e1d4aef/pics/dongxi/logo.png) 1x,url(http://img6.douban.com/f/dongxi/8e4651b14b3fbfd08115e6edb289573e7a5f75be/pics/dongxi/logo@2x.png) 2x);
-    background-image: -o-image-set(url(http://img6.douban.com/f/dongxi/c2f97669006396582d606ea919b2deab7e1d4aef/pics/dongxi/logo.png) 1x,url(http://img6.douban.com/f/dongxi/8e4651b14b3fbfd08115e6edb289573e7a5f75be/pics/dongxi/logo@2x.png) 2x)
+    background: #de533c url(../pics/dongxi/logo.png) no-repeat 22px 19px!important;
+    background-image: url(../pics/dongxi/logo.png);
+    background-image: -webkit-image-set(url(../pics/dongxi/logo.png) 1x,url(../pics/dongxi/logo@2x.png) 2x);
+    background-image: -moz-image-set(url(../pics/dongxi/logo.png) 1x,url(../pics/dongxi/logo@2x.png) 2x);
+    background-image: -ms-image-set(url(../pics/dongxi/logo.png) 1x,url(../pics/dongxi/logo@2x.png) 2x);
+    background-image: -o-image-set(url(../pics/dongxi/logo.png) 1x,url(../pics/dongxi/logo@2x.png) 2x)
 }
 
 #db-nav-commodity .nav-items {
@@ -1167,7 +1167,7 @@ body #db-pay-tips {
 
 #db-nav-commodity .nav-misc-item .publish-enterances .icon-1212 {
     display: inline-block;
-    background: url(http://img6.douban.com/f/dongxi/94caa05eba82f2c9f5a9acf892f63899df710618/pics/dongxi/special/20141212_create.png) no-repeat;
+    background: url(../pics/dongxi/special/20141212_create.png) no-repeat;
     width: 25px;
     height: 16px;
     margin-left: -8px;
@@ -1922,7 +1922,7 @@ body #db-pay-tips {
 }
 
 .doulist-dialog .bd.loading {
-    background: #fff url(http://img6.douban.com/pics/partner/loading.gif) no-repeat 50% 50%
+    background: #fff url(../pics/partner/loading.gif) no-repeat 50% 50%
 }
 
 .doulist-dialog .bd.loading .doulist-added-tips,.doulist-dialog .bd.loading .doulist-bd,.doulist-dialog .bd.loading .doulist-ft {
@@ -2189,16 +2189,16 @@ body #db-pay-tips {
 }
 
 .card-story .card-bd .story-quote,.card-story-large .card-bd .story-quote {
-    background: url(http://img6.douban.com/f/dongxi/781662f83b79e4f8afa7fb5f0b6a15123044c80e/pics/dongxi/quotel.png) no-repeat 0 0;
-    background: rgba(1,1,1,0) url(http://img6.douban.com/f/dongxi/e17dd39c8ecb1fa275637be03c325fe70601cd29/pics/dongxi/quotel.v1.svg) no-repeat 0 0;
+    background: url(../pics/dongxi/quotel.png) no-repeat 0 0;
+    background: rgba(1,1,1,0) url(../pics/dongxi/quotel.v1.svg) no-repeat 0 0;
     padding-left: 22px;
     *padding-left: 0;
     *background: 0
 }
 
 .card-story .card-bd .story-quote .quote,.card-story-large .card-bd .story-quote .quote {
-    background: url(http://img6.douban.com/f/dongxi/7fcf1cf23e9fc1ed7fff6e85dedee56db44e550f/pics/dongxi/quoter.png) no-repeat right bottom;
-    background: rgba(1,1,1,0) url(http://img6.douban.com/f/dongxi/f1433e4ef05e4b12d0ec6e63e92fbfa0409d757a/pics/dongxi/quoter.v1.svg) no-repeat right bottom;
+    background: url(../pics/dongxi/quoter.png) no-repeat right bottom;
+    background: rgba(1,1,1,0) url(../pics/dongxi/quoter.v1.svg) no-repeat right bottom;
     padding-right: 22px;
     *padding-right: 0;
     *background: 0;
@@ -2216,8 +2216,8 @@ body #db-pay-tips {
     padding-bottom: 10px;
     color: #666;
     padding-left: 0;
-    background: url(http://img6.douban.com/f/dongxi/1b28e01bd3faf71bb88a6431e96ddae1f00f12b9/pics/dongxi/card_quotel_ie.png) no-repeat 0 5px;
-    background: rgba(1,1,1,0) url(http://img6.douban.com/f/dongxi/3461d99714193831e173d6a395b5dc8e28981c3b/pics/dongxi/card_quotel.v1.svg) no-repeat 0 5px;
+    background: url(../pics/dongxi/card_quotel_ie.png) no-repeat 0 5px;
+    background: rgba(1,1,1,0) url(../pics/dongxi/card_quotel.v1.svg) no-repeat 0 5px;
     background-size: 8px auto;
     *background: 0
 }
@@ -2225,8 +2225,8 @@ body #db-pay-tips {
 .card-story .card-bd .story-quote .quote,.card-story-large .card-bd .story-quote .quote {
     padding-left: 10px;
     padding-right: 10px;
-    background: url(http://img6.douban.com/f/dongxi/3a328b311ee673f2ec1118e20d440e16ba2fcb6a/pics/dongxi/card_quoter_ie.png) no-repeat right center;
-    background: rgba(1,1,1,0) url(http://img6.douban.com/f/dongxi/ef9958c9fcfaa133c6bf5e8f2666516e89ab99d1/pics/dongxi/card_quoter.v1.svg) no-repeat right center;
+    background: url(../pics/dongxi/card_quoter_ie.png) no-repeat right center;
+    background: rgba(1,1,1,0) url(../pics/dongxi/card_quoter.v1.svg) no-repeat right center;
     background-size: 8px auto;
     *background: 0;
     *padding-left: 0;
@@ -2777,7 +2777,7 @@ body #db-pay-tips {
 }
 
 .dui-dialog.story-popup .dui-dialog-content .bd.loading {
-    background: url(http://img6.douban.com/pics/partner/loading.gif) no-repeat 50% 50%
+    background: url(../pics/partner/loading.gif) no-repeat 50% 50%
 }
 
 .dui-dialog.story-popup .dui-dialog-content .bd.loading iframe {
@@ -2857,7 +2857,7 @@ body #db-pay-tips {
     display: block;
     width: 14px;
     height: 18px;
-    background: url(http://img6.douban.com/f/dongxi/5b1349324674a66802987ee7e8680c3de843e838/pics/dongxi/trash.png) no-repeat
+    background: url(../pics/dongxi/trash.png) no-repeat
 }
 
 .card-dislike-btn .card-dislike-tip {
@@ -2885,7 +2885,7 @@ body #db-pay-tips {
 
 @media(-webkit-min-device-pixel-ratio:1.3),(min-resolution:1.3dppx) {
     .card-dislike-btn a {
-        background-image: url(http://img6.douban.com/f/dongxi/78c73594773b1fc15a3aecda5743993da0f55a97/pics/dongxi/trash@2x.png);
+        background-image: url(../pics/dongxi/trash@2x.png);
         background-size: cover
     }
 }
@@ -2894,7 +2894,7 @@ body #db-pay-tips {
     position: absolute;
     width: 222px;
     height: 165px;
-    background: url(http://img6.douban.com/f/dongxi/0d07ab19cbd3084563c029db1e0e81a43363c2ae/pics/dongxi/dislike_tips.png) no-repeat;
+    background: url(../pics/dongxi/dislike_tips.png) no-repeat;
     text-align: center;
     z-index: 99
 }

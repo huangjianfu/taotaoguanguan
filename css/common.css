@@ -129,14 +129,14 @@ body {
     float: left;
     height: 38px;
     padding-left: 5px;
-    background: url(http://img6.douban.com/f/dongxi/d1a246a6d8fa80b7dcb7d6b45eaa050766f2a938/pics/nav/ui_ns_sbg4.png) no-repeat 0 0
+    background: url(../pics/nav/ui_ns_sbg4.png) no-repeat 0 0
 }
 
 .nav-srh form {
     padding: 0 1px 0 0;
     height: 38px;
     *float: left;
-    background: url(http://img6.douban.com/f/dongxi/d1a246a6d8fa80b7dcb7d6b45eaa050766f2a938/pics/nav/ui_ns_sbg4.png) no-repeat 100% 0
+    background: url(../pics/nav/ui_ns_sbg4.png) no-repeat 100% 0
 }
 
 .nav-srh input {
@@ -172,7 +172,7 @@ body {
     font-size: 13px;
     padding: 1px 0 3px 3px;
     border: 0;
-    background: transparent url(http://img6.douban.com/f/dongxi/d1a246a6d8fa80b7dcb7d6b45eaa050766f2a938/pics/nav/ui_ns_sbg4.png) no-repeat 0 -100px;
+    background: transparent url(../pics/nav/ui_ns_sbg4.png) no-repeat 0 -100px;
     cursor: pointer;
     letter-spacing: 3px;
     text-align: center
@@ -210,7 +210,7 @@ label.inp-active {
 }
 
 .humble-form .bn-srh {
-    background: transparent url(http://img6.douban.com/f/dongxi/d1a246a6d8fa80b7dcb7d6b45eaa050766f2a938/pics/nav/ui_ns_sbg4.png) no-repeat -191px -102px;
+    background: transparent url(../pics/nav/ui_ns_sbg4.png) no-repeat -191px -102px;
     text-indent: -100px;
     border: 0;
     overflow: hidden;
@@ -349,7 +349,7 @@ label.inp-active {
     float: left;
     display: inline;
     margin-right: 14px;
-    background: url(http://img6.douban.com/f/dongxi/d1a246a6d8fa80b7dcb7d6b45eaa050766f2a938/pics/nav/ui_ns_sbg4.png) no-repeat 0 -140px
+    background: url(../pics/nav/ui_ns_sbg4.png) no-repeat 0 -140px
 }
 
 .site-nav-items li a:link,.site-nav-items li a:hover,.site-nav-items li a:visited,.site-nav-items li a:active {
@@ -432,7 +432,7 @@ label.inp-active {
     right: 4px;
     top: 10px;
     overflow: hidden;
-    background: url(http://img6.douban.com/f/dongxi/d1a246a6d8fa80b7dcb7d6b45eaa050766f2a938/pics/nav/ui_ns_sbg4.png) no-repeat -240px -124px
+    background: url(../pics/nav/ui_ns_sbg4.png) no-repeat -240px -124px
 }
 
 .submenu .menu li {
@@ -465,7 +465,7 @@ a.bn-radio:link,a.bn-radio:visited,a.bn-radio:hover,a.bn-radio:active {
     height: 14px;
     overflow: hidden;
     vertical-align: text-bottom;
-    background: url(http://img6.douban.com/f/dongxi/7b408a1f26fdbc04523515c59578eae1141c9226/pics/nav/ic_radio2.gif) no-repeat 0 0;
+    background: url(../pics/nav/ic_radio2.gif) no-repeat 0 0;
     *vertical-align: baseline;
     line-height: 15px;
     *margin: 0;
@@ -538,7 +538,7 @@ a.bn-radio:hover {
     width: 20px;
     height: 10px;
     text-indent: -9999px;
-    background: url(http://img6.douban.com/f/dongxi/7e64fa951ac0b291ea718fd7831510f341455ab2/pics/icon/sub_book_annotation.gif) no-repeat right center
+    background: url(../pics/icon/sub_book_annotation.gif) no-repeat right center
 }
 
 #db-nav-book li .lnk-buy {
@@ -550,7 +550,7 @@ a.bn-radio:hover {
     line-height: 22px;
     *line-height: 23px;
     overflow: hidden;
-    background: transparent url(http://img6.douban.com/f/dongxi/d1a246a6d8fa80b7dcb7d6b45eaa050766f2a938/pics/nav/ui_ns_sbg4.png) no-repeat -280px -120px;
+    background: transparent url(../pics/nav/ui_ns_sbg4.png) no-repeat -280px -120px;
     font-size: 12px;
     color: #368332;
     *margin-top: 8px
@@ -589,7 +589,7 @@ a.bn-radio:hover {
     top: -2px;
     width: 60px;
     height: 10px;
-    background-image: url(http://img6.douban.com/f/dongxi/8792d0a92015d9c6c940c94d8cd259b21a2ce900/pics/icon/cart_coupon_status.gif);
+    background-image: url(../pics/icon/cart_coupon_status.gif);
     background-repeat: no-repeat;
     text-indent: -9999px;
     line-height: 10px
@@ -923,7 +923,7 @@ a.bn-radio:hover {
     width: 20px;
     height: 9px;
     overflow: hidden;
-    background: url(http://img6.douban.com/f/dongxi/486503da8c82ffdbecec41c065927f96cbf02e4f/pics/icon/ic_new.png) no-repeat 0 0
+    background: url(../pics/icon/ic_new.png) no-repeat 0 0
 }
 
 #loc-nav-search {
@@ -1415,7 +1415,7 @@ a.dui-dialog-close:hover {
 }
 
 @font-face {
-    font-family:"ilmenicons";src:url(http://img6.douban.com/f/dongxi/e3b5ba78af741f0a9ed9134f81cc2c5173123e05/pics/dongxi/fonts/ilmenicons.eot);src:url(http://img6.douban.com/f/dongxi/e3b5ba78af741f0a9ed9134f81cc2c5173123e05/pics/dongxi/fonts/ilmenicons.eot) format("embedded-opentype"),url(http://img6.douban.com/f/dongxi/297a1ede542de82af8b1799c9b5b0457f934515e/pics/dongxi/fonts/ilmenicons.woff) format("woff"),url(http://img6.douban.com/f/dongxi/1233057681c3ce151ddda8831aa25daa7a92e6f7/pics/dongxi/fonts/ilmenicons.ttf) format("truetype"),url(http://img6.douban.com/f/dongxi/cba81ebb2ca0b592b0ea3276ddad2cb48152d0d0/pics/dongxi/fonts/ilmenicons.svg) format("svg");font-weight:normal;font-style:normal
+    font-family:"ilmenicons";src:url(../pics/dongxi/fonts/ilmenicons.eot);src:url(../pics/dongxi/fonts/ilmenicons.eot) format("embedded-opentype"),url(../pics/dongxi/fonts/ilmenicons.woff) format("woff"),url(../pics/dongxi/fonts/ilmenicons.ttf) format("truetype"),url(../pics/dongxi/fonts/ilmenicons.svg) format("svg");font-weight:normal;font-style:normal
 }[data-icon]:before {
      line-height: 1;
      content: attr(data-icon)
@@ -1661,7 +1661,7 @@ a:active,a:hover {
 h2 {
     color: #333;
     margin-bottom: 0;
-    font: 14px / 1.5
+    font: 14px/1.5
 }
 
 .grid-16-8 .article {
@@ -1754,8 +1754,8 @@ h2 {
 }
 
 .btn-doulist.active:link,.btn-doulist.active:visited {
-    background: #e7e7d5 url(http://img6.douban.com/f/dongxi/c933e477d79c704c9cb7c5af41fa4e5f2449ee6c/pics/dongxi/icons_misc_svg_ie.2.png) no-repeat 5px -109px;
-    background: #e7e7d5 url(http://img6.douban.com/f/dongxi/2ab563c9ed224a598b37d3160efe0a50630ea910/pics/dongxi/icons_misc.3.svg) no-repeat 5px -109px;
+    background: #e7e7d5 url(../pics/dongxi/icons_misc_svg_ie.2.png) no-repeat 5px -109px;
+    background: #e7e7d5 url(../pics/dongxi/icons_misc.3.svg) no-repeat 5px -109px;
     color: #80804c
 }
 
@@ -1781,14 +1781,14 @@ h2 {
 }
 
 .btn-like:link,.btn-like:visited {
-    background: url(http://img6.douban.com/f/dongxi/c933e477d79c704c9cb7c5af41fa4e5f2449ee6c/pics/dongxi/icons_misc_svg_ie.2.png) no-repeat 0 0;
-    background: transparent url(http://img6.douban.com/f/dongxi/2ab563c9ed224a598b37d3160efe0a50630ea910/pics/dongxi/icons_misc.3.svg) no-repeat 0 0;
+    background: url(../pics/dongxi/icons_misc_svg_ie.2.png) no-repeat 0 0;
+    background: transparent url(../pics/dongxi/icons_misc.3.svg) no-repeat 0 0;
     color: #333
 }
 
 .btn-like:active,.btn-like:hover {
     background-image: none;
-    background-image: url(http://img6.douban.com/f/dongxi/c933e477d79c704c9cb7c5af41fa4e5f2449ee6c/pics/dongxi/icons_misc_svg_ie.2.png)\9;
+    background-image: url(../pics/dongxi/icons_misc_svg_ie.2.png)\9;
     color: #333
 }
 
@@ -1799,8 +1799,8 @@ h2 {
     position: absolute;
     top: 0;
     left: 0;
-    background: url(http://img6.douban.com/f/dongxi/c933e477d79c704c9cb7c5af41fa4e5f2449ee6c/pics/dongxi/icons_misc_svg_ie.2.png) no-repeat 0 -40px;
-    background: transparent url(http://img6.douban.com/f/dongxi/2ab563c9ed224a598b37d3160efe0a50630ea910/pics/dongxi/icons_misc.3.svg) no-repeat 0 -40px;
+    background: url(../pics/dongxi/icons_misc_svg_ie.2.png) no-repeat 0 -40px;
+    background: transparent url(../pics/dongxi/icons_misc.3.svg) no-repeat 0 -40px;
     opacity: .45;
     filter: Alpha(Opacity=45)
 }
@@ -1819,8 +1819,8 @@ h2 {
 }
 
 .btn-like.active:link,.btn-like.active:visited,.btn-like.active:active,.btn-like.active:hover {
-    background: url(http://img6.douban.com/f/dongxi/c933e477d79c704c9cb7c5af41fa4e5f2449ee6c/pics/dongxi/icons_misc_svg_ie.2.png) no-repeat 0 -40px;
-    background: transparent url(http://img6.douban.com/f/dongxi/2ab563c9ed224a598b37d3160efe0a50630ea910/pics/dongxi/icons_misc.3.svg) no-repeat 0 -40px;
+    background: url(../pics/dongxi/icons_misc_svg_ie.2.png) no-repeat 0 -40px;
+    background: transparent url(../pics/dongxi/icons_misc.3.svg) no-repeat 0 -40px;
     color: #333
 }
 
@@ -1846,7 +1846,7 @@ h2 {
     }
 
     .btn-like:link,.btn-like:visited,.btn-like:active,.btn-like:hover {
-        background: url(http://img6.douban.com/f/dongxi/2ab563c9ed224a598b37d3160efe0a50630ea910/pics/dongxi/icons_misc.3.svg) no-repeat 0 0
+        background: url(../pics/dongxi/icons_misc.3.svg) no-repeat 0 0
     }
 
     .btn-like:link:after,.btn-like:visited:after,.btn-like:active:after,.btn-like:hover:after {
@@ -1854,7 +1854,7 @@ h2 {
     }
 
     .btn-like.active:link,.btn-like.active:visited,.btn-like.active:active,.btn-like.active:hover {
-        background: url(http://img6.douban.com/f/dongxi/2ab563c9ed224a598b37d3160efe0a50630ea910/pics/dongxi/icons_misc.3.svg) no-repeat 0 -40px
+        background: url(../pics/dongxi/icons_misc.3.svg) no-repeat 0 -40px
     }
 
     .btn-like.active:link .main,.btn-like.active:visited .main,.btn-like.active:active .main,.btn-like.active:hover .main {
@@ -1869,8 +1869,8 @@ h2 {
 .btn-write-review,.btn-share-commodity,.btn-apply-submit,.btn-apply {
     line-height: 13px;
     color: #fff;
-    background: #ff7b63 url(http://img6.douban.com/f/dongxi/c933e477d79c704c9cb7c5af41fa4e5f2449ee6c/pics/dongxi/icons_misc_svg_ie.2.png) no-repeat 16px -349px;
-    background: rgba(255,123,99,0) url(http://img6.douban.com/f/dongxi/2ab563c9ed224a598b37d3160efe0a50630ea910/pics/dongxi/icons_misc.3.svg) no-repeat 16px -349px;
+    background: #ff7b63 url(../pics/dongxi/icons_misc_svg_ie.2.png) no-repeat 16px -349px;
+    background: rgba(255,123,99,0) url(../pics/dongxi/icons_misc.3.svg) no-repeat 16px -349px;
     background-color: #ff7b63;
     padding: 12px 19px 10px 46px;
     -webkit-border-radius: 2px;
@@ -1886,8 +1886,8 @@ h2 {
 
 .btn-write-review:active,.btn-write-review:hover,:hover.btn-share-commodity,:active.btn-share-commodity,:hover.btn-apply-submit,:active.btn-apply-submit,:hover.btn-apply,:active.btn-apply {
     color: #fff;
-    background: #f56944 url(http://img6.douban.com/f/dongxi/c933e477d79c704c9cb7c5af41fa4e5f2449ee6c/pics/dongxi/icons_misc_svg_ie.2.png) no-repeat 16px -349px;
-    background: rgba(245,105,68,0) url(http://img6.douban.com/f/dongxi/2ab563c9ed224a598b37d3160efe0a50630ea910/pics/dongxi/icons_misc.3.svg) no-repeat 16px -349px;
+    background: #f56944 url(../pics/dongxi/icons_misc_svg_ie.2.png) no-repeat 16px -349px;
+    background: rgba(245,105,68,0) url(../pics/dongxi/icons_misc.3.svg) no-repeat 16px -349px;
     background-color: #f56944
 }
 
@@ -1972,7 +1972,7 @@ h2 {
 
 :hover.btn-add-contact,.btn-add-contact,:active.btn-add-contact,:visited.btn-add-contact,:link.btn-add-contact {
     color: #fff;
-    background: #6ac3d9 url(http://img6.douban.com/f/dongxi/78f3b39ec6d2c870dce21b2f90826b125b454d20/pics/dongxi/icons_misc.7.png) no-repeat 0 7px
+    background: #6ac3d9 url(../pics/dongxi/icons_misc.7.png) no-repeat 0 7px
 }
 
 :hover.btn-add-contact,:active.btn-add-contact {
@@ -2207,7 +2207,7 @@ fieldset p {
 .captcha-dialog .bd {
     width: 200px;
     height: 168px;
-    background: url(http://img6.douban.com/f/dongxi/b66b312561667597f59ae2ff465eb5e301b70046/pics/loading.gif) no-repeat 50% 50%
+    background: url(../pics/loading.gif) no-repeat 50% 50%
 }
 
 .captcha-dialog p {
@@ -2254,7 +2254,7 @@ fieldset p {
 }
 
 .tips-dialog .hd {
-    background: url(http://img6.douban.com/f/dongxi/8d891e0ea956692ca5da6eb9c6af8d61b02b2aee/pics/dongxi/icon_index_subscribe_tips.png) no-repeat 0 50%;
+    background: url(../pics/dongxi/icon_index_subscribe_tips.png) no-repeat 0 50%;
     border-bottom: 0;
     margin: 20px 20px 0
 }
